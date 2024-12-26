@@ -11,4 +11,8 @@ public class Tester {
     public void test_problem006(){
         Assertions.assertEquals(Problems.problem006(),25164150);
     }
+    @Test
+    public void test_problem009(){
+        Assertions.assertEquals(Problems.problem009(),31875000);
+    }
 }
