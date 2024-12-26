@@ -7,4 +7,8 @@ public class Tester {
     public void test_problem001(){
         Assertions.assertEquals(Problems.problem001(),233168);
     }
+    @Test
+    public void test_problem006(){
+        Assertions.assertEquals(Problems.problem006(),25164150);
+    }
 }
