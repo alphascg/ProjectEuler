@@ -1,6 +1,6 @@
 package mll.Archive;
 
-public class Problem002 {
+public class Problem006 {
     public static int calculate(){
         int sumOfSquares = 0;
         int amountOfFirstNumbers = 100;
